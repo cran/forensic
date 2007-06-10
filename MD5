@@ -1,0 +1,13 @@
+58b605ceb86e160b645007eca1b0f41e *DESCRIPTION
+92c8fc7fe85b06efa0436ad1fe67c69e *NAMESPACE
+306a4a67d9415f0956c32292ca476756 *R/LR.ind.R
+c35f5a3e70337862984dde6e53a49508 *R/Pevid.gen.R
+2d273923f46c951e0e4c2837800b9b3e *R/Pevid.ind.R
+7d417e81f184840045cf6e042aaef7d7 *R/Pevid.rel.R
+7a09eb37fbb77dbb10fd6281fe22afbf *R/Pmatch.R
+ad20a1ae80d6c0bd6d808edd757f3124 *R/zzz.R
+03f8e4983bba9f09cb78a83196713d77 *man/LR.ind.Rd
+86a867396e293145a7635bc69af3dcbe *man/Pevid.gen.Rd
+8ce0e56ccc54079dc05f4a8884d079b0 *man/Pevid.ind.Rd
+38bd271f33eec3426d909704b914251c *man/Pevid.rel.Rd
+48903e37a23235daedd9a37bc3b44fdf *man/Pmatch.Rd
